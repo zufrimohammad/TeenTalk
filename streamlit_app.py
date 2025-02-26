@@ -14,6 +14,7 @@ from langchain.schema import SystemMessage, HumanMessage, AIMessage
 load_dotenv()
 
 # Set streamlit page configuration
+api_key = st.secrets["OPENAI_API_KEY"]
 st.set_page_config(page_title="Platform Curhatmu")
 st.title("TeenTalk : Platform Curhat Terbaikmu")
 
