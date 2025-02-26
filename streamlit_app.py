@@ -179,7 +179,7 @@ st.sidebar.title("TeenTalk")
 st.sidebar.subheader("Platform Curhat Terbaikmu")
 st.sidebar.markdown(
     """
-**SahabatBK** dirancang untuk membantu siswa dengan pertanyaan-pertanyaan mengenai **bimbingan konseling**. 
+**TeenTalk** dirancang untuk membantu siswa dengan pertanyaan-pertanyaan mengenai **bimbingan konseling**. 
 Untuk menggunakannya, cukup ketikkan pertanyaan atau pernyataan Anda pada kotak chat dan Anda akan mendapatkan tanggapan dari ChatBot.
 """
 )
