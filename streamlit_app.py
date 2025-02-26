@@ -30,7 +30,7 @@ if "entered_prompt" not in st.session_state:
 
 
 # Initialize the ChatOpenAI model
-chat = ChatOpenAI(temperature=0.5, model_name="gpt-4o")
+chat = ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo")
 
 def build_message_list():
     """
